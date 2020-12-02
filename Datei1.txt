@@ -1,3 +1,4 @@
 Datei1 erstellt.
 Änderung für den stash
 Änderung für den stash Nr. 2
+Änderung für den stash Nr. 3
